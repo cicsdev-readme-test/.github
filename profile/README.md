@@ -11,5 +11,5 @@ There are lots of samples available but here are a few highlights:
 - Two collections of Java samples demonstrating how to use the
   * [JCICS API](https://github.com/cicsdev/cics-java-jcics-samples)
   * [JCICSX API](https://github.com/cicsdev/cics-java-jcicsx-samples)
-- A Java Spring Boot application demonstrating [how to the JCICS TSQ Java API to provide a RESTful CICS TSQ browsing service](https://github.com/cicsdev/cics-java-liberty-springboot-jcics)
+- A Java Spring Boot application demonstrating [using the JCICS TSQ Java API to provide a RESTful CICS TSQ browsing service](https://github.com/cicsdev/cics-java-liberty-springboot-jcics)
 - A sample Java program showing [how to use the JCICS CICSProgram annotation for Link to Liberty](https://github.com/cicsdev/cics-java-liberty-link)
